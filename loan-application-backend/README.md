@@ -2,7 +2,7 @@
 
 - An online loan application where a user can login, signup, apply a loan, pay EMIs, and track their transactions.
 - RESTful backend server developed in Spring boot enabling users to stores data persistently in a relational database.
-- Integration of a third party chat system (tawk.to), Java Mail API and Swagger for API documentation.
+- Integration with Java Mail API and Swagger for API documentation.
 
 ## Technologies used
 1. Java 8
