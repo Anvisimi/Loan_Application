@@ -2,7 +2,7 @@
 
 - An online loan application where a user can login, signup, apply a loan, pay EMIs, and track their transactions.
 - RESTful backend server developed in Spring boot enabling users to stores data persistently in a relational database.
-- Integration with Java Mail API and Swagger for API documentation.
+- Integration with Java Mail API and Swagger for API documentation(http://localhost:8080/swagger-ui/index.html#/).
 
 ## Technologies used
 1. Java 8
